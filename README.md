@@ -65,3 +65,7 @@ In this capstone, we will predict if the Falcon 9 first stage will land successf
 * Championed the best model based on perfomance score
   
 ## Conclusion
+* The Decision Tree was the champion models slightly outperforming the Logistic model with a better recall score and an accuracy of **83%**
+* The success of launches rates get better as time goes on
+* KSC LC 39A had the most sucessfull launches out of all launch sites
+* 
