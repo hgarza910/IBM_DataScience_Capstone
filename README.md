@@ -55,5 +55,13 @@ In this capstone, we will predict if the Falcon 9 first stage will land successf
 * Included Scatter plot showing Payload Mass vs Launch Outcomes with adjustable payload slider
   
 ### Predictive Models
-* Split 
+* Isolated target variable
+* Standardized training data with **StandardScalar**
+* Split the data using and 80/20 split
+* Created a **GridSearchCV** object using 10 folds
+* Tuned 4 different classification models using GridSearchCV: Logistic Regression, SVM, KNN and Decision Tree
+* Calculated the accuracy score for the test sets
+* Assesed the models using a confusion looking at the True predictions
+* Championed the best model based on perfomance score
+  
 ## Conclusion
