@@ -1,4 +1,4 @@
-# IBM_DataScience_Capstone
+# IBM Data Science Capstone - SpaceX Cost-Effective Rocket Launches
 
 ## Summary
 In this capstone project, the objective is to predict the successful landing of the Falcon 9 first stage. As SpaceX reuses this stage to cut costs, accurate predictions are vital for estimating launch expenses and competing against SpaceX. The project encompasses data collection from SpaceX API and Wikipedia through webscraping, followed by data wrangling, exploratory data analysis (EDA) using visualizations and SQL queries, interactive map creation with Folium, and a dynamic dashboard with Plotly Dash. Predictive models were developed, including Logistic Regression, SVM, KNN, and Decision Tree, with the Decision Tree model emerging as the best performer. The conclusion highlights the Decision Tree's accuracy of 83%, improved launch success rates over time, and KSC LC 39A's notable success in launches.
@@ -69,4 +69,4 @@ In this capstone, we will predict if the Falcon 9 first stage will land successf
 * The Decision Tree was the champion models slightly outperforming the Logistic model with a better recall score and an accuracy of **83%**
 * The success of launches rates get better as time goes on
 * KSC LC 39A had the most sucessfull launches out of all launch sites
-* 
+
