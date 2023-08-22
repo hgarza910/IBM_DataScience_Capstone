@@ -3,8 +3,7 @@
 ## Summary
 In this capstone project, the objective is to predict the successful landing of the Falcon 9 first stage. As SpaceX reuses this stage to cut costs, accurate predictions are vital for estimating launch expenses and competing against SpaceX. The project encompasses data collection from SpaceX API and Wikipedia through webscraping, followed by data wrangling, exploratory data analysis (EDA) using visualizations and SQL queries, interactive map creation with Folium, and a dynamic dashboard with Plotly Dash. Predictive models were developed, including Logistic Regression, SVM, KNN, and Decision Tree, with the Decision Tree model emerging as the best performer. The conclusion highlights the Decision Tree's accuracy of 83%, improved launch success rates over time, and KSC LC 39A's notable success in launches.
 
-## Introduction
-### Background
+## Background
 In this capstone, we will predict if the Falcon 9 first stage will land successfully. SpaceX advertises Falcon 9 rocket launches on its website with a cost of 62 million dollars; other providers cost upward of 165 million dollars each, much of the savings is because SpaceX can reuse the first stage. Therefore if we can determine if the first stage will land, we can determine the cost of a launch. This information can be used if an alternate company wants to bid against SpaceX for a rocket launch.
 
 ## Methodology
